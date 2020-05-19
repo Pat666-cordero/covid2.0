@@ -18,3 +18,6 @@ Esto sera una prueba del mundo
   - 1 2 ultra violento :v
   - GG 
   - Como se utiliza el Fork profesor? 
+## cambios en rama.v1
+  - ayer hice lo mismo y no salio :v
+  - asi no vale :v
