@@ -14,6 +14,7 @@ Esto sera una prueba del mundo
   | ya no se que poner | 3.31.1   | $6    |
   | MariaDB | 8.0.20 | $8    |
 ## Como agregar una aplicacion
-  --para agregar una aplicacion se realiza lo siguiente 
-  --1 2 ultra violento :v
-  
+  - para agregar una aplicacion se realiza lo siguiente 
+  - 1 2 ultra violento :v
+  - GG 
+  - Como se utiliza el Fork profesor? 
